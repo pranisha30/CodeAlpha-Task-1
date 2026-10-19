@@ -30,3 +30,26 @@ A CSV file containing 1,000 book records.
 
 ## Internship
 CodeAlpha Data Analyst Internship — Task 1: Web Scraping
+## Task 2: Exploratory Data Analysis (EDA)
+
+### Overview
+Performed exploratory data analysis on a dataset of 1,000 book records collected from Books to Scrape.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Work Completed
+- Inspected dataset structure and data types.
+- Checked missing values and duplicate records.
+- Converted book prices into numeric values.
+- Analyzed price statistics, ratings, and availability.
+- Created charts for rating distribution, price distribution, and average price by rating.
+
+### Key Findings
+- Analyzed 1,000 book records.
+- Found no missing values.
+- One-star ratings were the most common, representing 22.6% of records.
+- All 1,000 books were listed as in stock.
