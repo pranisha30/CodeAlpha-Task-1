@@ -87,6 +87,4 @@ Through this task, I learned how to create charts using Matplotlib and Seaborn, 
 ## Conclusion
 This project helped me understand how data visualization makes information easier to interpret and compare. It also improved my basic Python data analysis skills.
 
-## Internship
-**Organization:** CodeAlpha  
-**Task:** Task 3 – Data Visualization
+
